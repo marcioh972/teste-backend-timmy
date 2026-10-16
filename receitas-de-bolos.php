@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name:       Receitas de Bolos
- * Description:       Cadastro de receitas de bolos com post type personalizado, templates de archive e single e sugestões "Veja mais".
  * Version:           1.0.0
  * Requires at least: 5.8
  * Requires PHP:      7.4
